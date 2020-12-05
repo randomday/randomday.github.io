@@ -2,4 +2,4 @@
 permalink: /about/
 title: "About"
 ---
-aa
+about

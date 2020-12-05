@@ -12,8 +12,6 @@ categories: whale
 
 # 고래 이야기 첫번째
 
-\\<!-- [![blueWhale](https://user-images.githubusercontent.com/13774828/101245484-94e6d800-3750-11eb-8ab4-5a945a5d2596.jpeg)](https:/www.naver.com) -->
-
 ## 대왕고래
 ![blueWhale](https://user-images.githubusercontent.com/13774828/101245484-94e6d800-3750-11eb-8ab4-5a945a5d2596.jpeg)
 
