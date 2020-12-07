@@ -1,10 +1,13 @@
 ---
 layout: post
-title: 고래이야기 #1, 대왕고래
-subtitle: Each post also has a subtitle
-#gh-repo: daattali/beautiful-jekyll
-#gh-badge: [star, fork, follow]
-tags: [whale, bluewhale, 고래, 대왕고래]   
+title: 고래이야기 첫번째, 대왕고래
+subtitle: 대양을 닮은 고래 
+#gh-repo: daattali/beautiful-jekyll  
+#gh-badge: [star, fork, follow]  
+cover-img: https://i.pinimg.com/originals/30/eb/2a/30eb2a2eefe76a296cc33c013aa047cc.jpg  
+thumbnail-img: /assets/img/thumb.png  
+share-img: /assets/img/path.jpg  
+tags: [whale, bluewhale, 고래, 대왕고래]  
 comments: true
 ---
 
@@ -31,7 +34,7 @@ comments: true
 
 ![HowBigIsBig]
 
-주 먹이는 크릴 (크릴은 새우가 아니다.). 하루에 평균 4톤씩 진공 청소기 처럼 빨아들인다.
+주 먹이는 크릴 (TMI 크릴은 새우가 아니다.). 하루에 평균 4톤씩 진공 청소기 처럼 빨아들인다.
 
 이 거대한 체구에 걸맞게, 끊임없이 먹잇감을 찾아다녀야해서, 전 세계의 대양을 떠돌아 다닌다.
 먹이가 풍부한 남극과 북극해에서 자주 발견되는 편이다.
