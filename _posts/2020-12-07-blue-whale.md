@@ -5,7 +5,7 @@ subtitle: 대양을 닮은 고래
 #gh-repo: daattali/beautiful-jekyll  
 #gh-badge: [star, fork, follow]  
 cover-img: https://i.pinimg.com/originals/30/eb/2a/30eb2a2eefe76a296cc33c013aa047cc.jpg  
-thumbnail-img: /assets/img/thumb.png  
+thumbnail-img: https://i.pinimg.com/originals/d2/88/7a/d2887aedb4062c10de293880f3374ce0.jpg  
 share-img: /assets/img/path.jpg  
 tags: [whale, bluewhale, 고래, 대왕고래]  
 comments: true
