@@ -1,1 +1,1 @@
-# randomday blog
+# Randomday Blog
