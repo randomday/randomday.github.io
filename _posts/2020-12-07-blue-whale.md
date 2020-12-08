@@ -1,27 +1,25 @@
 ---
 layout: post
-title: 고래이야기 첫번째, 대왕고래
-subtitle: 대양을 닮은 고래 
+title: 대양을 닮은 고래, 대왕고래
+subtitle: 고래이야기 &#35;1 
 #gh-repo: daattali/beautiful-jekyll  
 #gh-badge: [star, fork, follow]  
 cover-img: https://i.pinimg.com/originals/30/eb/2a/30eb2a2eefe76a296cc33c013aa047cc.jpg  
 thumbnail-img: https://i.pinimg.com/originals/d2/88/7a/d2887aedb4062c10de293880f3374ce0.jpg  
-share-img: /assets/img/path.jpg  
-tags: [whale, bluewhale, 고래, 대왕고래]  
+share-img: https://i.pinimg.com/originals/30/eb/2a/30eb2a2eefe76a296cc33c013aa047cc.jpg  
+tags: [whale,bluewhale,고래,대왕고래]  
 comments: true
 ---
 
 ### 대왕고래
 물론, 대왕고래가 첫번째다.
-흰수염고래, 흰긴수염고래라고 불리는 이 고래는 
-대왕고래라는 이름만큼 가장 큰 크기를 자랑한다.
 
 ![blueWhaleFigure]
 > 슐라이히 대왕고래 피규어, 내 첫 고래 피규어. 묵직하다.
 
 원피스에서도 흰수염의 위용은 이 고래에서 가져왔을거라고 생각한다.
 
-한국에선 대왕고래, 흰긴수염고래, 청고래, 흰수염고래라고 불리우고, 영어로는 blue whale 이다.   
+한국에선 _대왕고래_, _흰긴수염고래_, _흰수염고래_, _청고래_ 라고 불리우고, 영어로는 _blue whale_ 이다.   
 몸은 회색이며, 입안에는 검은 수염이 나있다. 몸길이는 보통 24~33m, 무게는 80~190톤에 달한다.   
       
 놀라운 점은 현존하는 동물등 뿐 아니라 모든 지질시대 동안 발견된 모든 종들 중에서 가장 큰 동물이라는 것. (공룡포함)           
