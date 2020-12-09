@@ -1,9 +1,9 @@
 ---
-title: "고래 이야기"
-permalink: /categories/whales/
-layout: categories
-author_profile: true
-taxonomy: 고래 이야기
+title: "고래 이야기"  
+permalink: /categories/whales/  
+layout: category  
+author_profile: true  
+taxonomy: whale  
 ---
 
 docker 이야기 아님

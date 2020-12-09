@@ -1,9 +1,10 @@
 ---
-title:  "대양을 닮은 고래, 대왕고래"
-excerpt: "고래이야기 #1"
-
+title:  "대양을 닮은 고래, 대왕고래"   
+excerpt: "고래이야기 #1"  
+header:
+  teaser: https://www.sciencemag.org/sites/default/files/styles/article_main_large/public/cc_Nicholas-Pyenson---The_Hunt_Showcase_4K_TV4_16x9.jpg?itok=yyN0swOD
 categories:
-  - whales
+  - whale  
 tags:
   - whale 
   - 고래 
@@ -85,7 +86,6 @@ last_modified_at: 2020-12-08T23:06:00+09:00
 
 읽어주셔서 감사합니다 :)   
 글솜씨가 없지만 쓰다보면 늘겠죠~
-
 
 ---
 

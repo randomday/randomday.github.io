@@ -13,7 +13,9 @@
 
 # main links
 main:
-  - title: "고래 이야기"
+  - title: "clouds"
+    url: /categories/clouds/
+  - title: "whales"
     url: /categories/whales/
   - title: "About"
     url: /about/
