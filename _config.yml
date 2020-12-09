@@ -95,7 +95,7 @@ analytics:
 author:
   name             : "randomday"
   avatar           : "/assets/images/Logo_Blue_00.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "**CLOUD DEVELOPER**"
+  bio              : "**SW ENGINEER**"
   location         : "B Town"
   email            :
   links:
@@ -107,7 +107,7 @@ author:
       # url: "https://your-website.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/ohgnas1"
+      #url: "https://twitter.com/ohgnas1"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
@@ -119,7 +119,7 @@ author:
 #      # url: "https://instagram.com/"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/sangho-lee-195ba8138/"
+      #url: "https://www.linkedin.com/in/sangho-lee-195ba8138/"
 
 # Site Footer
 footer:

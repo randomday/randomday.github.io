@@ -12,14 +12,17 @@ tags:
 last_modified_at: 2020-12-08T23:06:00+09:00
 ---
 
-### 대왕고래
+### all time no.1 size
 
-![blueWhaleFigure]
-> 슐라이히 대왕고래 피규어, 묵직하다.
+![BlueWhale]
 
-한국에선 _대왕고래_, _흰긴수염고래_, _흰수염고래_, _청고래_ 라고 불리우고, 영어로는 _blue whale_ 이다.   
+한국에선 _대왕고래_, _흰긴수염고래_, _흰수염고래_, _청고래_ 라고 불리우고, 영어로는 _blue whale_ 이다.
+(**대왕고래**가 표준어, 흰수염, 흰긴수염 고래는 일본식 표현)       
 몸은 회색이며, 입안에는 검은 수염이 나있다. 몸길이는 보통 24~33m, 무게는 80~190톤에 달한다.   
 (원피스에서도 흰수염의 위용은 이 고래에서 가져왔을거라고 생각한다.)
+
+![blueWhaleFigure]
+> 대왕고래 피규어, 묵직하다.
       
 놀라운 점은 현존하는 동물등 뿐 아니라 모든 지질시대 동안 발견된 모든 종들 중에서 가장 큰 동물이라는 것. (공룡포함)           
 눈은 농구공보다 크고, 심장의 크기가 골프카트 크기, 그 심장에서 나오는 대동맥은 사람이 그 안에서 수영을 할 수 있을 정도.
@@ -51,6 +54,11 @@ last_modified_at: 2020-12-08T23:06:00+09:00
 ![blueWhaleVsHuman]
 > 사람과 사이즈 비교 bo-so!
 
+###### 대왕고래의 개체수
+전 세계를 통틀어 1만 마리로 추산되며(더 적게 예상하기도 한다),  
+적어도 다섯 무리가 있는 것으로 보인다.  
+심각한 멸종위기 상태이고 지켜야할 존재이다.  
+
 #### 그렇다면 이 대왕고래를 실제로 볼 수 있는 곳은 어디 일까?
 
 ###### 대왕고래를 볼 수 있는 곳! 
@@ -66,6 +74,8 @@ last_modified_at: 2020-12-08T23:06:00+09:00
 1. MIRISSA, SRI LANKA
 2. SAN DIEGO, CALIFORNIA
 
+흰수염고래와 함께 수영할 수 있다니.. 버킷리스트다..
+
 [여기서 자세히~][SeeBlueWhale]
 
 
@@ -74,6 +84,7 @@ last_modified_at: 2020-12-08T23:06:00+09:00
 #### 출처
 > [나무위키]  
 
+[BlueWhale]: https://www.sciencemag.org/sites/default/files/styles/article_main_large/public/cc_Nicholas-Pyenson---The_Hunt_Showcase_4K_TV4_16x9.jpg?itok=yyN0swOD
 [SeeBlueWhale]: https://magazine.diviac.com/blue-whales-the-worlds-best-places-for-whale-watching-and-swimming/
 [Smithsonion]: https://www.amnh.org/var/ezflow_site/storage/images/media/amnh/images/exhibitions/permanent-exhibitions/biodiversity-and-environment-halls/milstein-hall-of-ocean-life/blue-whale-exhibit-2460-1384/4162997-1-eng-US/blue-whale-exhibit-2460-1384_wideexact_2460.jpg  
 [HowBigIsBig]: https://w.namu.la/s/19fb9e19e42511c25e5e87f7333979189e75b07db84669be9de079dfa690fe5a669aa2486f97d89a265e489b1df5e33cfb0ace0f729f4945c74209e427242cc902cd91a21de7c85ea2e25bd1d5e515ddbeab6f9776b21925955879320e240b5cbf757f5ace061e71ba3620df94bc5694
@@ -82,3 +93,4 @@ last_modified_at: 2020-12-08T23:06:00+09:00
 [blueWhaleImage1]: https://w.namu.la/s/707b8b038dcee2eb9ec8bdef1993e55db9fa958d407e063cff64894e72b1b13c75dd66c343c0d32ad7dbe161b2d9573df6252eab257d76dcc74581408464da13ea10abf6cc10fed6deda26b70e6671d5e2dec31318f9972302b49f92d4b6f5f350a3254780db0a7bbdee845a63fa4950
 [나무위키]: https://namu.wiki/w/%EB%8C%80%EC%99%95%EA%B3%A0%EB%9E%98   
 [BlueWhaleFin]: https://magazine.diviac.com/content/images/2016/10/common-questions-about-blue-whales.jpg
+[BUYOICENTER]: https://www.ndbc.noaa.gov/station_page.php?station=44013
