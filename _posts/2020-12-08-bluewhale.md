@@ -103,20 +103,19 @@ last_modified_at: 2020-12-08T23:06:00+09:00
 
 ---
 
-#### 출처
-> [나무위키]  
-> [데일리로그]  
-> [조선비즈]  
+#### 출처   
+> [나무위키], [데일리로그], [조선비즈]   
 
-[BlueWhale]: https://www.sciencemag.org/sites/default/files/styles/article_main_large/public/cc_Nicholas-Pyenson---The_Hunt_Showcase_4K_TV4_16x9.jpg?itok=yyN0swOD
-[SeeBlueWhale]: https://magazine.diviac.com/blue-whales-the-worlds-best-places-for-whale-watching-and-swimming/
-[Smithsonion]: https://www.amnh.org/var/ezflow_site/storage/images/media/amnh/images/exhibitions/permanent-exhibitions/biodiversity-and-environment-halls/milstein-hall-of-ocean-life/blue-whale-exhibit-2460-1384/4162997-1-eng-US/blue-whale-exhibit-2460-1384_wideexact_2460.jpg  
-[HowBigIsBig]: https://w.namu.la/s/19fb9e19e42511c25e5e87f7333979189e75b07db84669be9de079dfa690fe5a669aa2486f97d89a265e489b1df5e33cfb0ace0f729f4945c74209e427242cc902cd91a21de7c85ea2e25bd1d5e515ddbeab6f9776b21925955879320e240b5cbf757f5ace061e71ba3620df94bc5694
-[blueWhaleFigure]: https://user-images.githubusercontent.com/13774828/101245484-94e6d800-3750-11eb-8ab4-5a945a5d2596.jpeg
-[blueWhaleVsHuman]: https://ww.namu.la/s/fe95bb6aba26a9ea1cb253fcefe5fb0217b2a04b4eabf39e11ed7acb396f4ee0d833075168228ea681776765dcfc19842ac096c78a9a88cc16cf0c16e1e3457af3725ae6185310c795470bbd1e47094cd27aa9124e67fcd00f887bbae20941e0
-[blueWhaleImage1]: https://w.namu.la/s/707b8b038dcee2eb9ec8bdef1993e55db9fa958d407e063cff64894e72b1b13c75dd66c343c0d32ad7dbe161b2d9573df6252eab257d76dcc74581408464da13ea10abf6cc10fed6deda26b70e6671d5e2dec31318f9972302b49f92d4b6f5f350a3254780db0a7bbdee845a63fa4950
+
+[BlueWhale]: https://www.sciencemag.org/sites/default/files/styles/article_main_large/public/cc_Nicholas-Pyenson---The_Hunt_Showcase_4K_TV4_16x9.jpg?itok=yyN0swOD  
+[SeeBlueWhale]: https://magazine.diviac.com/blue-whales-the-worlds-best-places-for-whale-watching-and-swimming/  
+[Smithsonion]: https://www.amnh.org/var/ezflow_site/storage/images/media/amnh/images/exhibitions/permanent-exhibitions/biodiversity-and-environment-halls/milstein-hall-of-ocean-life/blue-whale-exhibit-2460-1384/4162997-1-eng-US/blue-whale-exhibit-2460-1384_wideexact_2460.jpg    
+[HowBigIsBig]: https://w.namu.la/s/19fb9e19e42511c25e5e87f7333979189e75b07db84669be9de079dfa690fe5a669aa2486f97d89a265e489b1df5e33cfb0ace0f729f4945c74209e427242cc902cd91a21de7c85ea2e25bd1d5e515ddbeab6f9776b21925955879320e240b5cbf757f5ace061e71ba3620df94bc5694  
+[blueWhaleFigure]: https://user-images.githubusercontent.com/13774828/101245484-94e6d800-3750-11eb-8ab4-5a945a5d2596.jpeg  
+[blueWhaleVsHuman]: https://ww.namu.la/s/fe95bb6aba26a9ea1cb253fcefe5fb0217b2a04b4eabf39e11ed7acb396f4ee0d833075168228ea681776765dcfc19842ac096c78a9a88cc16cf0c16e1e3457af3725ae6185310c795470bbd1e47094cd27aa9124e67fcd00f887bbae20941e0  
+[blueWhaleImage1]: https://w.namu.la/s/707b8b038dcee2eb9ec8bdef1993e55db9fa958d407e063cff64894e72b1b13c75dd66c343c0d32ad7dbe161b2d9573df6252eab257d76dcc74581408464da13ea10abf6cc10fed6deda26b70e6671d5e2dec31318f9972302b49f92d4b6f5f350a3254780db0a7bbdee845a63fa4950  
 [나무위키]: https://namu.wiki/w/%EB%8C%80%EC%99%95%EA%B3%A0%EB%9E%98   
-[BlueWhaleFin]: https://magazine.diviac.com/content/images/2016/10/common-questions-about-blue-whales.jpg
+[BlueWhaleFin]: https://magazine.diviac.com/content/images/2016/10/common-questions-about-blue-whales.jpg  
 [BUYOICENTER]: https://www.ndbc.noaa.gov/station_page.php?station=44013   
-[데일리로그]: https://www.dailylog.co.kr/news/articleView.html?idxno=20841  
-[조선비즈]: https://biz.chosun.com/site/data/html_dir/2017/06/02/2017060202019.html  
+[데일리로그]: https://www.dailylog.co.kr/news/articleView.html?idxno=20841    
+[조선비즈]: https://biz.chosun.com/site/data/html_dir/2017/06/02/2017060202019.html    
