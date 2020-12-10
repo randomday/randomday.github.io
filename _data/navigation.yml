@@ -13,8 +13,8 @@
 
 # main links
 main:
-  - title: "clouds"
-    url: /categories/clouds/
+  - title: "techs"
+    url: /categories/techs/
   - title: "whales"
     url: /categories/whales/
   - title: "About"
