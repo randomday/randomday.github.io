@@ -24,7 +24,7 @@ description              : "randomday blog"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser                   : "/assets/images/Logo_Blue_00.png" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+teaser                   : "https://user-images.githubusercontent.com/13774828/101785001-95f87a80-3b3f-11eb-92ef-097861d9b8c3.png" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
@@ -75,7 +75,7 @@ facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 : "/assets/images/Logo_Blue_00.png" # Open Graph/Twitter default site image
+og_image                 : "https://user-images.githubusercontent.com/13774828/101785001-95f87a80-3b3f-11eb-92ef-097861d9b8c3.png" # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
@@ -94,7 +94,7 @@ analytics:
 # Site Author
 author:
   name             : "randomday"
-  avatar           : "/assets/images/Logo_Blue_00.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "https://user-images.githubusercontent.com/13774828/101785001-95f87a80-3b3f-11eb-92ef-097861d9b8c3.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "**SW ENGINEER**"
   location         : "B Town"
   email            :
