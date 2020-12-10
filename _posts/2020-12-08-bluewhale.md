@@ -13,7 +13,7 @@ tags:
 last_modified_at: 2020-12-08T23:06:00+09:00
 ---
 
-### all time no.1 size
+#### all time no.1 size
 
 ![BlueWhale]
 
@@ -25,7 +25,7 @@ last_modified_at: 2020-12-08T23:06:00+09:00
 ![blueWhaleFigure]
 > 대왕고래 피규어, 묵직하다.
       
-놀라운 점은 현존하는 동물등 뿐 아니라 모든 지질시대 동안 발견된 모든 종들 중에서 가장 큰 동물이라는 것. (공룡포함)           
+놀라운 점은 현존하는 동물들 뿐 아니라 모든 지질시대 동안 발견된 모든 종들 중에서 가장 큰 동물이라는 것. (공룡포함)           
 눈은 농구공보다 크고, 심장의 크기가 골프카트 크기, 그 심장에서 나오는 대동맥은 사람이 그 안에서 수영을 할 수 있을 정도.
 
 재미있는 점은, 목구멍이 자몽 정도 크기라니 귀엽다.
@@ -57,8 +57,12 @@ last_modified_at: 2020-12-08T23:06:00+09:00
 
 ###### 대왕고래의 개체수
 전 세계를 통틀어 1만 마리로 추산되며(더 적게 예상하기도 한다),  
-적어도 다섯 무리가 있는 것으로 보인다.  
-심각한 멸종위기 상태이고 지켜야할 존재이다.  
+적어도 다섯 무리가 있는 것으로 보인다. 심각한 멸종위기 상태이고 지켜야할 존재이다.  
+
+###### 대왕고래는 왜 이렇게 커졌을까?
+미국 스미스소니언 자연사박물관 연구진은 국제학술지 '영국 왕립학회보 B' 최신호에 "고래는 수천만년 동안 그리 크지 않은 몸집으로 있다가 450만년 전부터 갑자기 몸길이가 10m를 넘어서며 급격히 커졌다"고 밝혔다. 공룡 시대가 저물면서 세상이 모두 줄어들었지만 유독 고래만 거꾸로 몸집을 키운 셈이다.
+
+
 
 #### 그렇다면 이 대왕고래를 실제로 볼 수 있는 곳은 어디 일까?
 
@@ -75,14 +79,19 @@ last_modified_at: 2020-12-08T23:06:00+09:00
 1. MIRISSA, SRI LANKA
 2. SAN DIEGO, CALIFORNIA
 
-흰수염고래와 함께 수영할 수 있다니.. 버킷리스트다..
 
 [여기서 자세히~][SeeBlueWhale]
 
-고래에 대한 동경에서 시작하여 좀 더 자세히 알아 보고 싶은 마음에
-고래 이야기 블로그를 시작했다.  
-역시 그 출발은 대왕고래였고, 
-앞으로 하나씩 마음 가는 고래 순서로 포스팅을 하겠다.
+흰수염고래와 함께 수영할 수 있다니.. 버킷리스트다..
+
+###### 우리나라에서 대왕고래를 볼 수 있을까?
+아쉽게도 볼 수 없다.    
+불과 100년전까지만 해도 대왕고래는 우리나라 서해를 찾아와 인천 앞바다와 백령도를 오고갔지만, 일제 강점기 포경회사에 의해 한반도에서 자취를 감춘 것으로 전해진다.                                  
+                                  
+#### 마무리
+
+고래에 대한 동경에서 시작하여 좀 더 자세히 알아 보고 싶은 마음에 고래 이야기 블로그를 시작했다.  
+역시 그 출발은 대왕고래였고, 앞으로 하나씩 마음 가는 고래 순서로 포스팅을 하겠다.
 
 읽어주셔서 감사합니다 :)   
 글솜씨가 없지만 쓰다보면 늘겠죠~
@@ -91,6 +100,8 @@ last_modified_at: 2020-12-08T23:06:00+09:00
 
 #### 출처
 > [나무위키]  
+> [데일리로그]
+> [조선비즈]
 
 [BlueWhale]: https://www.sciencemag.org/sites/default/files/styles/article_main_large/public/cc_Nicholas-Pyenson---The_Hunt_Showcase_4K_TV4_16x9.jpg?itok=yyN0swOD
 [SeeBlueWhale]: https://magazine.diviac.com/blue-whales-the-worlds-best-places-for-whale-watching-and-swimming/
@@ -102,3 +113,5 @@ last_modified_at: 2020-12-08T23:06:00+09:00
 [나무위키]: https://namu.wiki/w/%EB%8C%80%EC%99%95%EA%B3%A0%EB%9E%98   
 [BlueWhaleFin]: https://magazine.diviac.com/content/images/2016/10/common-questions-about-blue-whales.jpg
 [BUYOICENTER]: https://www.ndbc.noaa.gov/station_page.php?station=44013
+[데일리로그]: https://www.dailylog.co.kr/news/articleView.html?idxno=20841
+[조선비즈]: https://biz.chosun.com/site/data/html_dir/2017/06/02/2017060202019.html
