@@ -17,5 +17,5 @@ main:
     url: /categories/techs/
   - title: "whales"
     url: /categories/whales/
-  - title: "About"
+  - title: "about"
     url: /about/
