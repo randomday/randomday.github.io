@@ -48,9 +48,7 @@ last_modified_at: 2020-12-08T23:06:00+09:00
 실제로 대왕고래의 성체들은 이런 엄청난 지구력과 준수한 속도로 범고래 무리를 따돌린다.    
 이 전략은 단순하지만 성체의 경우 탈출 성공률이 매우 높은데, 그 이유는 범고래가 제대로 공격을 하려면 수염고래가 속력을 낮추거나 멈춰야만 하는데 이 녀석은 엄청난 크기 때문에 잠시 따라잡는다 해도 잡아둘 수도, 죽일 수도 없으며 그렇다고 계속 추격해도 도저히 지치지를 않는지라 포기할 수밖에 없다.
 
-![Smithsonion]
-> 뉴욕 스미스소니언 자연사 박물관에 가면 실물 크기의 모형이 전시 되어있다.
-
+###### 1분에 2번 뛰는 대왕고래 심장
 
 ![blueWhaleVsHuman]
 > 사람과 사이즈 비교 bo-so!
@@ -61,6 +59,11 @@ last_modified_at: 2020-12-08T23:06:00+09:00
 
 ###### 대왕고래는 왜 이렇게 커졌을까?
 미국 스미스소니언 자연사박물관 연구진은 국제학술지 '영국 왕립학회보 B' 최신호에 "고래는 수천만년 동안 그리 크지 않은 몸집으로 있다가 450만년 전부터 갑자기 몸길이가 10m를 넘어서며 급격히 커졌다"고 밝혔다. 공룡 시대가 저물면서 세상이 모두 줄어들었지만 유독 고래만 거꾸로 몸집을 키운 셈이다.
+
+![Smithsonion]
+> 뉴욕 스미스소니언 자연사 박물관에 가면 실물 크기의 모형이 전시 되어있다.
+
+###### 그래도 사이즈의 한계가 있다.
 
 
 
@@ -100,8 +103,8 @@ last_modified_at: 2020-12-08T23:06:00+09:00
 
 #### 출처
 > [나무위키]  
-> [데일리로그]
-> [조선비즈]
+> [데일리로그]  
+> [조선비즈]  
 
 [BlueWhale]: https://www.sciencemag.org/sites/default/files/styles/article_main_large/public/cc_Nicholas-Pyenson---The_Hunt_Showcase_4K_TV4_16x9.jpg?itok=yyN0swOD
 [SeeBlueWhale]: https://magazine.diviac.com/blue-whales-the-worlds-best-places-for-whale-watching-and-swimming/
@@ -112,6 +115,6 @@ last_modified_at: 2020-12-08T23:06:00+09:00
 [blueWhaleImage1]: https://w.namu.la/s/707b8b038dcee2eb9ec8bdef1993e55db9fa958d407e063cff64894e72b1b13c75dd66c343c0d32ad7dbe161b2d9573df6252eab257d76dcc74581408464da13ea10abf6cc10fed6deda26b70e6671d5e2dec31318f9972302b49f92d4b6f5f350a3254780db0a7bbdee845a63fa4950
 [나무위키]: https://namu.wiki/w/%EB%8C%80%EC%99%95%EA%B3%A0%EB%9E%98   
 [BlueWhaleFin]: https://magazine.diviac.com/content/images/2016/10/common-questions-about-blue-whales.jpg
-[BUYOICENTER]: https://www.ndbc.noaa.gov/station_page.php?station=44013
-[데일리로그]: https://www.dailylog.co.kr/news/articleView.html?idxno=20841
-[조선비즈]: https://biz.chosun.com/site/data/html_dir/2017/06/02/2017060202019.html
+[BUYOICENTER]: https://www.ndbc.noaa.gov/station_page.php?station=44013   
+[데일리로그]: https://www.dailylog.co.kr/news/articleView.html?idxno=20841  
+[조선비즈]: https://biz.chosun.com/site/data/html_dir/2017/06/02/2017060202019.html  
