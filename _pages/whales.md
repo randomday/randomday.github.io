@@ -6,4 +6,4 @@ author_profile: true
 taxonomy: whale  
 ---
 
-docker 이야기 아님
+docker 이야기 아님.
